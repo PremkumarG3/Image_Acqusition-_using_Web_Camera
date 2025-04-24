@@ -92,7 +92,7 @@ cv2.destroyAllWindows()
 
 ```
 
-## Output
+## Output:
 
 ### i) Write the frame as JPG image
 
@@ -113,4 +113,4 @@ cv2.destroyAllWindows()
 
 
 ## Result:
-Thus the image is accessed from webcamera and displayed using openCV.
+Thus the image is accessed from webcamera and displayed using openCV is executed successfully.
